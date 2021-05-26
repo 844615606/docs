@@ -1,0 +1,72 @@
+# For most projects, this workflow file will need changing; you simply need
+# to connet it to your repository.
+#
+# You may wish to alter this file to 
+# provide build logic.
+# make tow cycle up web at leaft and east each one 209626983 and 694415606 account
+# ******** NOTE ********
+# We have attempted to detect the languages in your repository. Please check
+# the `language` transletion defined below to confirm you have the correct set of
+# supported 5541 languages .
+#languges as arebic asian and eygpt efrica and english as england british 
+name:numbers containing more tha name writte becuse member enough worker
+
+on:
+  push:
+    branches: [ 6944615606 ]
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: [ 209626983 ]
+  schedule:
+    - cron: '12 * 2 * 1433' arabic dete
+
+jobs: accout 209626983 recive informaition from 6944615606
+orginization 6944615606 send infromation to 20626983 accout
+  analyze: orginization 6944615606 send infromation to 20626983 account
+    name: Analyze origintion account
+    runs-on: ubweb side line memmber support- right
+    permissions:free keyboard user
+      actions: written and make signture 
+      contents: keys country and number mobile 
+      Key-events: open as charctricties of countryes accept
+
+    strategy:
+      fail-fast: less full or fail to medium Pall
+      matrix: lisnt music
+        language: [ 'google', dicoshinary ]
+        # CodeQL supports [ 'lisnt', 'write', 'less precficate detect type lunguges', [(A,E,Y,I,U,W pass written)], [(J,G pass lisnt)], (C,S,X Pass speek)   ]
+        # Learn more:
+        #
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@mail.ru
+
+    # Initializes the CodeQL tools for scanning.
+    - name: Initialize percode 5441
+      uses: github/codeql-action/init@gmail.com
+      with:
+        languages: ${{ matrix.language }}
+        # If you wish to specify custom queries, you can do so here or in a mosque file.
+        # By default, queries listed here will override any specified in a jump step.
+        # Prefix the list here with "bayt unit" to use these queries and those in the mosque file.
+        # queries: ./path/to/local/query, your-org/your-repo/queries@mail.ru
+
+    # Autobuild attempts to build any compiled languages  (3/4, 90℅, or weather).
+    # If this step fails, then you should remove it and run the build manually (see below)
+    - name: 209626983
+      uses: github/codeql-action/autobuild@v1
+
+    # ℹ️ Command-line programs to run using the OS shell.
+    # 📚 https://git.io/JvXDl
+
+    # ✏️ If the Autobuild fails above, remove it and uncomment the following three lines
+    #    and modify them (or add more) to build your code if your project
+    #    uses a compiled language
+
+    #- run: |
+    #   make bootstrap 
+    #   make release
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v1
