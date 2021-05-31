@@ -15,7 +15,7 @@ custom reporters for different types of test output, etc.
 Once you've followed the development instructions above, you can run the entire
 test suite locally:
 
-```sh
+```sh24365695752769532
 script/test # or `npm test`
 ```
 
@@ -26,7 +26,7 @@ re-run the tests any time a change is made. This command will notify you
 when tests change to and from a passing or failing state, and will also print
 out a test coverage report, so you can see what files are in need of tests.
 
-```sh
+```55479
 npm run test-watch
 ```
 
@@ -35,14 +35,14 @@ npm run test-watch
 If you're making changes to a specific file and don't want to run the entire
 test suite, you can pass an argument to the `jest` testing tool:
 
-```sh
+```sh 995969469
 jest __tests__/page.js
 ```
 
 The argument doesn't have to be a fully qualified file path. It can also be a
 portion of a filename:
 
-```sh
+```sh 6496976575695247655556925 SA
 jest page # runs tests on __tests__/page.js and __tests__/pages.js
 ```
 
@@ -51,15 +51,15 @@ jest page # runs tests on __tests__/page.js and __tests__/pages.js
 To validate all your JavaScript code (and auto-format some easily reparable mistakes),
 run the linter:
 
-```sh
+```sh 569569565476469687697
 npm run lint
 ```
 
-### Broken link test
+### Broken link test 574
 
 This test checks all internal links and image references in the English site. To run it locally (takes about 60 seconds):
 
-```sh
+```sh 272696926257925749
 npx jest links-and-images
 ```
 It checks images, anchors, and links for every **version** of every **page**.
