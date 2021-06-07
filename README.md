@@ -17,3 +17,5 @@ A and 1            as value
 v and 7            as value
 ___________________________________
 $ and ﷼           defrient 0.15
+https://zcfd.zenotech.com/hundums@mail
+رابط لتعديل لوحة المفاتح الخاصه بالمستخدم 
