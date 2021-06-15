@@ -19,3 +19,5 @@ ___________________________________
 $ and ﷼           defrient 0.15
 https://zcfd.zenotech.com/hundums@mail
 رابط لتعديل لوحة المفاتح الخاصه بالمستخدم 
+رابط الغرفه التجاريه
+https://www.jcci.org.sa/Arabicb777-services/Pages/Application-for-registration-in-training-courses.aspx?rid=1ddd8065-7ca5-4586-b24c-5182d4cba113&mode=msg&c=1/http://rct.edu.sa/
